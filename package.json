@@ -1,0 +1,15 @@
+{
+  "name": "mini.scss.grid",
+  "version": "0.0.1",
+  "description": "grid system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manuel Gonzalez <manuelitox@icloud.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "sass-true": "^2.0.3",
+    "sassdoc": "^2.1.20"
+  }
+}
